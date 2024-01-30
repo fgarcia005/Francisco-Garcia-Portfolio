@@ -13,16 +13,6 @@ h1{
     margin-bottom: 20px;
 }
 
-h2{
-    text-align: center;
-    background-color: rgb(68,148,123);
-    color: rgb(204,233,215);
-    width: 300px;
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-}
-
 ul{
     background-color: rgb(68,148,123);
     padding: 10px 10px;
@@ -41,6 +31,37 @@ li {
     margin: 0 10px;
 }
 
+.aboutMe{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 10px;
+    width: 500px;
+    background-color: rgb(68,148,123);
+}
+
+img{
+    margin-top: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+    width: 300px;
+    height: 300px;
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(68,148,123);
+    color: rgb(204,233,215);
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+p{
+    color: rgb(204,233,215);
+}
+
 .aboutMeLi{
     text-align: center;
     display: inline-block;
@@ -51,19 +72,4 @@ li {
 li :hover{
     color: rgb(96,60,193);
     background-color: rgb(139,167,93);
-}
-
-img{
-    margin-left: 100px;
-    margin-right: 100px;
-    width: 300px;
-    height: 300px;
-}
-.aboutMe{
-    margin-left: auto;
-    margin-right: auto;
-    margin-top: 20px;
-    padding: 10px;
-    width: 500px;
-    background-color: rgb(68,148,123);
 }
