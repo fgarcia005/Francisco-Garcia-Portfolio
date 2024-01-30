@@ -1,0 +1,68 @@
+body{
+    background-color: rgb(96,60,193);
+}
+
+h1{
+    text-align: center;
+    background-color: rgb(68,148,123);
+    color: rgb(204,233,215);
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+h2{
+    text-align: center;
+    background-color: rgb(68,148,123);
+    color: rgb(204,233,215);
+    width: 300px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+}
+
+ul{
+    background-color: rgb(68,148,123);
+    padding: 10px 10px;
+    display: table;
+    margin: auto;
+    list-style-position: inside;
+}
+
+a{
+    color: rgb(204,233,215);
+}
+
+li {
+    text-align: center;
+    display: inline-block;
+    margin: 0 10px;
+}
+
+.aboutMeLi{
+    text-align: center;
+    display: inline-block;
+    margin: 0 10px;
+    color: rgb(204,233,215);
+}
+
+li :hover{
+    color: rgb(96,60,193);
+    background-color: rgb(139,167,93);
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
+.aboutMe{
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    padding: 10px;
+    min-width: 450px;
+    width: fit-content;
+    background-color: rgb(68,148,123);
+}
