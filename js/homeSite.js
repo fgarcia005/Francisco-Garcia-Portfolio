@@ -45,8 +45,3 @@ function slideshow(){
 }
 
 
-function displayQuote(){
-    quote
-}
-
-
