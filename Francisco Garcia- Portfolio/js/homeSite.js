@@ -35,6 +35,10 @@ function slideshow(){
     img++;
 }
 
+function displayQuote(dtat){
+
+}
+
 function displayQuote(){
     quote
 }
