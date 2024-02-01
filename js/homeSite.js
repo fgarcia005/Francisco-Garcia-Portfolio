@@ -3,7 +3,7 @@ console.log("Hope is here");
 
 //variables
 let img = 0;
-let imgs = ["subImages/img1.jpg","subImages/img2.jpg","subImages/AiArt.png","subImages/familyPic.jpg"];
+let imgs = ["subImages/img1.jpg","subImages/img2.jpg","subImages/aiart.png","subImages/familyPic.jpg"];
 let newQuote;
 
 //DOM
